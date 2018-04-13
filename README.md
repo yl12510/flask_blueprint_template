@@ -1,5 +1,7 @@
 ## Flask template with Blueprint ##
 
+A simple template to start your flask project (with blueprint)
+
 ### package structures ###
 
 * flask is configured in [config.py](./config.py)
