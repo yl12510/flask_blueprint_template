@@ -3,6 +3,7 @@ import os
 BASE_DIR = os.path.relpath(os.path.dirname(__file__))
 
 DEBUG = True
+DEBUG_TB_INTERCEPT_REDIRECTS = False 
 
 CSRF_ENABLED = True
 CSRF_SESSION_KEY = '15018ed6-927a-46ea-8953-7db263079f56'
